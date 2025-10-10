@@ -8,9 +8,10 @@ export default function Home() {
           className="dark:invert"
           src="/next.svg"
           alt="Next.js logo"
-          width={180} // Branch test 2nd attempt
+          width={180} // New Branch test 2st attempt does not work
           height={38}
           priority
+          above-the-fold
         />
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
           <li className="mb-2 tracking-[-.01em]">
