@@ -8,7 +8,7 @@ export default function Home() {
           className="dark:invert"
           src="/next.svg"
           alt="Next.js logo"
-          width={180} // Branch test
+          width={180} // Branch test 2nd attempt
           height={38}
           priority
         />
