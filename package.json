@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@supabase/supabase-js": "^2.75.0",
-    "axios": "^1.12.2",
-    "pnpm": "^10.18.2"
-  }
-}
